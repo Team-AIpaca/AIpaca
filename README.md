@@ -9,3 +9,6 @@ ArtificiaI lntelligence Processing trAnce Coaching Assistant 프로젝트는 '�
 # 문서 파일
 모든 문서는 반드시 AIpaca 저장소에 있어야 합니다. `docs` 폴더 안에 저장소명으로 된 폴더 안에 문서 파일(마크다운 파일 권장)이 있어야 합니다.
 또한 `docs` 폴더 루트에는 `README.md` 파일이 `docs` 폴더 구조를 설명하고, `flowchart.drawio` 파일에는 플로우차트 등이 있어야 합니다. 자세한 내용은 `[docs/README.md](./docs/README.md) 파일을 확인하세요!
+
+# 개인정보 취급 방침
+개인 정보를 수집하지 않습니다
